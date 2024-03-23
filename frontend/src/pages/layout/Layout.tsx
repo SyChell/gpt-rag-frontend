@@ -41,7 +41,7 @@ const Layout = () => {
                         </ul>
     */}
                     </nav>
-                    <h4 className={styles.headerRightText}>Chat On Your Data</h4>
+                    <h4 className={styles.headerRightText}>Chatbot Interne</h4>
                 </div>
             </header>
 
