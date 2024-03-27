@@ -10,7 +10,7 @@ const Layout = () => {
             <header className={styles.header} role={"banner"}>
                 <div className={styles.headerContainer}>
                     <Link to="/" className={styles.headerTitleContainer}>
-                        <img height="80px" src="https://cryptologos.cc/logos/chatcoin-chat-logo.png?v=029"></img>
+                        <img height="80px" src="https://upload.wikimedia.org/wikipedia/commons/4/46/LOGO-ATTIJARI-NEW.gif?v=029"></img>
                         <h3 className={styles.headerTitle}></h3>
                     </Link>
                     <nav>
